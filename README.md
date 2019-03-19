@@ -8,8 +8,12 @@
 
 
 
-* [스마트폰, 패드를 위한 합본](https://github.com/isawthelight/books-of-article/blob/master/Screen/Articles_of_ISTLM_2nd_Edition.pdf)  (2019.03.17, 20M, 798 페이지, US Letter 사이즈)
-* [프린트/재본을 위한 볼륨 1](https://raw.githubusercontent.com/user/books-of-article/master/Printing/Articles_of_ISTLM_2nd_Edition_Volume1-8.5x11.pdf)  (2019.03.17, 7.4M, 393 페이지, US Letter 사이즈)
-* [프린트/재본을 위한 볼륨 2](https://raw.githubusercontent.com/user/books-of-article/master/Printing/Articles_of_ISTLM_2nd_Edition_Volume2-8.5x11.pdf)  (2019.03.17, 13M, 403 페이지, US Letter 사이즈)
+- [A4 사이즈 합본](https://github.com/isawthelight/books-of-article/blob/master/Screen/Articles_of_iSawTheLightMinistries_2nd_Edition-A4.pdf) (2019.03.17, 713 페이지)
+
+
+
+* [US Letter 사이즈 합본](https://github.com/isawthelight/books-of-article/blob/master/Screen/Articles_of_ISTLM_2nd_Edition.pdf)  (2019.03.17, 20M, 798 페이지)
+* [US Letter 사이즈 볼륨 1](https://raw.githubusercontent.com/user/books-of-article/master/Printing/Articles_of_ISTLM_2nd_Edition_Volume1-8.5x11.pdf)  (2019.03.17, 7.4M, 393 페이지)
+* [US Letter 사이즈 볼륨 2](https://raw.githubusercontent.com/user/books-of-article/master/Printing/Articles_of_ISTLM_2nd_Edition_Volume2-8.5x11.pdf)  (2019.03.17, 13M, 403 페이지)
 
 
